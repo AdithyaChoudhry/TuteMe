@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333200757631",
+    "firebase_url": "https://tute-me-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tute-me",
+    "storage_bucket": "tute-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333200757631:android:bf5a46edc7d6cb3f71404a",
+        "android_client_info": {
+          "package_name": "com.example.tute_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333200757631-kl9ss5p79jvk973achn179bfe2hmj7hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDcV7c_WWNOlaQG4gJpjVb8fdyDv9t_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333200757631-kl9ss5p79jvk973achn179bfe2hmj7hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
